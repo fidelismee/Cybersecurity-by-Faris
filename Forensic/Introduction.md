@@ -5,4 +5,6 @@ The main steps usually include identifying that an incident occurred, preserving
 
 For me, what makes cybersecurity forensics interesting is that it combines technical knowledge with investigative skills. It’s not just about defending systems in real-time, but also about piecing together digital clues to reveal the bigger picture of an attack.
 
-![](images/Pasted%20image%2020250905154511.png)
+![](test.png)
+
+![](Pasted%20image%2020250905154711.png)

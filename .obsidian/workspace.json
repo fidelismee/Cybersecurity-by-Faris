@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "55774f35e3977592",
+        "id": "b13a0b233c7a1b80",
         "type": "tabs",
         "children": [
           {
-            "id": "820ebf42ce0b3cce",
+            "id": "e7de69b0b45df143",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -167,11 +167,12 @@
       "graph:Open graph view": false
     }
   },
-  "active": "820ebf42ce0b3cce",
+  "active": "e7de69b0b45df143",
   "lastOpenFiles": [
-    "images/Pasted image 20250905154511.png",
-    "images/Pasted image 20250905153732.png",
+    "Pasted image 20250905154711.png",
+    "images/test.png",
     "Forensic/Introduction.md",
+    "images/Pasted image 20250905153732.png",
     "images/Pasted image 20250905153625.png",
     "images/Pasted image 20250905153443.png",
     "images",
