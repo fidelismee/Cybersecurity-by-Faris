@@ -7,4 +7,4 @@ For me, what makes cybersecurity forensics interesting is that it combines techn
 
 ![](test.png)
 
-![test](images/testtt.png)
+![test](Forensic/testtt.png)
