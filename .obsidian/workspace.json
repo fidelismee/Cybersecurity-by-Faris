@@ -168,33 +168,33 @@
       "graph:Open graph view": false
     }
   },
-  "active": "e7de69b0b45df143",
+  "active": "26ff0267de82b510",
   "lastOpenFiles": [
+    "Software Exploitation/Format String Exploits/Introduction/a.out",
     "Software Exploitation/Format String Exploits/Introduction/do.c",
+    "Software Exploitation/Format String Exploits/Leaking Data/do.c",
+    "do.c",
+    "Software Exploitation/Format String Exploits/Leaking Data",
+    "Software Exploitation/Leaking Data",
     "Software Exploitation/Format String Exploits/Introduction/a",
     "Software Exploitation/Format String Exploits/Format String Exploits.md",
     "Software Exploitation/Format String Exploits/Introduction",
     "Software Exploitation/Format String Exploits/a",
     "Software Exploitation/Format String Exploits/a.exe",
     "Software Exploitation/Format String Exploits/do.c",
-    "Software Exploitation/Format String Exploits",
     "Software Exploitation/Format String Exploits/Introduction/Introduction.md",
     "Forensic/Introduction.md",
-    "Software Exploitation",
     "Forensic/images/Pasted image 20250905155212.png",
     "Forensic/images/Pasted image 20250905155411.png",
     "Forensic/images/Pasted image 20250905155913.png",
     "Forensic/images/Pasted image 20250905155751.png",
     "Forensic/testtt.png",
-    "Forensic/images",
     "images/test.png",
     "images/Pasted image 20250905153732.png",
     "images/Pasted image 20250905153625.png",
     "images/Pasted image 20250905153443.png",
-    "images",
     "Pasted image 20250905152956.png",
     "Pasted.md",
-    "README.md",
-    "Forensic"
+    "README.md"
   ]
 }
