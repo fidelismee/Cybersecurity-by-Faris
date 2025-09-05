@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b13a0b233c7a1b80",
+        "id": "9ca70ba23b31d3c2",
         "type": "tabs",
         "children": [
           {
-            "id": "e7de69b0b45df143",
+            "id": "741dfbdb1235bf2d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software Exploitation/Format String Exploits/Introduction/Introduction.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Introduction"
+              "title": "New tab"
             }
           }
         ]
@@ -168,8 +163,14 @@
       "graph:Open graph view": false
     }
   },
-  "active": "26ff0267de82b510",
+  "active": "741dfbdb1235bf2d",
   "lastOpenFiles": [
+    "Web Security/PWN.COLLEGE/Untitled.canvas",
+    "Web Security/PWN.COLLEGE/CSE 365 - Spring 2024",
+    "README.md",
+    "Software Exploitation/Format String Exploits/Introduction/Introduction.md",
+    "Web Security/PWN.COLLEGE",
+    "Web Security",
     "Software Exploitation/Format String Exploits/Introduction/a.out",
     "Software Exploitation/Format String Exploits/Introduction/do.c",
     "Software Exploitation/Format String Exploits/Leaking Data/do.c",
@@ -178,11 +179,6 @@
     "Software Exploitation/Leaking Data",
     "Software Exploitation/Format String Exploits/Introduction/a",
     "Software Exploitation/Format String Exploits/Format String Exploits.md",
-    "Software Exploitation/Format String Exploits/Introduction",
-    "Software Exploitation/Format String Exploits/a",
-    "Software Exploitation/Format String Exploits/a.exe",
-    "Software Exploitation/Format String Exploits/do.c",
-    "Software Exploitation/Format String Exploits/Introduction/Introduction.md",
     "Forensic/Introduction.md",
     "Forensic/images/Pasted image 20250905155212.png",
     "Forensic/images/Pasted image 20250905155411.png",
@@ -194,7 +190,6 @@
     "images/Pasted image 20250905153625.png",
     "images/Pasted image 20250905153443.png",
     "Pasted image 20250905152956.png",
-    "Pasted.md",
-    "README.md"
+    "Pasted.md"
   ]
 }
