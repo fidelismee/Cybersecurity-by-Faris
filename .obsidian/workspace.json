@@ -11,10 +11,14 @@
             "id": "741dfbdb1235bf2d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Web Security/PWN.COLLEGE/CSE 365 - Spring 2024/Introduction.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Introduction"
             }
           }
         ]
@@ -165,6 +169,7 @@
   },
   "active": "741dfbdb1235bf2d",
   "lastOpenFiles": [
+    "Web Security/PWN.COLLEGE/CSE 365 - Spring 2024/Introduction.md",
     "Web Security/PWN.COLLEGE/Untitled.canvas",
     "Web Security/PWN.COLLEGE/CSE 365 - Spring 2024",
     "README.md",
