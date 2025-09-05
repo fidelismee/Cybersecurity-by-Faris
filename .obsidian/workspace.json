@@ -11,12 +11,14 @@
             "id": "e7de69b0b45df143",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "testtt.png"
+                "file": "Forensic/Introduction.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "testtt"
+              "icon": "lucide-file",
+              "title": "Introduction"
             }
           }
         ]
@@ -165,10 +167,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "26ff0267de82b510",
+  "active": "e7de69b0b45df143",
   "lastOpenFiles": [
-    "Forensic/Introduction.md",
     "testtt.png",
+    "Forensic/Introduction.md",
     "images/test.png",
     "images/Pasted image 20250905153732.png",
     "images/Pasted image 20250905153625.png",
